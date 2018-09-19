@@ -1,0 +1,1 @@
+# resources_for_video_object_detection
